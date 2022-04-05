@@ -6,6 +6,8 @@
 
 <h1>About Me! </h1>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 - 🏫: I'm a pre-final year, Computer Science Student.
 - 🔭: I’m currently working as a Devops Intern.
 - 🌱: I am located in Shimla, Himachal Pradesh , India.
