@@ -8,13 +8,13 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="250" height="250" /></p>
 
----
-**NOTE**
+```
+
 - 🏫: I'm a pre-final year, Computer Science Student.
 - 🔭: I’m currently working as a Devops Intern.
 - 🌱: I am located in Shimla, Himachal Pradesh , India.
 
----
+```
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
  <h1>Get in Touch! 📬</h1>
