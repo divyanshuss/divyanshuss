@@ -4,7 +4,12 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  </p>
 
-<br>
+<h1>About Me! </h1>
+
+- 🏫: I'm a pre-final year, Computer Science Student.
+- 🔭: I’m currently working as a Devops Intern.
+- 🌱: I am located in Shimla, Himachal Pradesh , India.
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 
