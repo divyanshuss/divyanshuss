@@ -16,4 +16,13 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/divyanshusharmaa/" target="blank"><img align="center" src="https://img.shields.io/badge/Divyanshu Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:divyanshus10112k@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/divyanshus10112k@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/divyanshuss" target="blank"><img align="center" src="https://img.shields.io/badge/Divyanshu-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://medium.com/@dswriting"><img align="center" img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
 </p>
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ 
+ 
+ <p align="center">
+	<a href="mailto:divyanshus10112k@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/divyanshuss"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/divyanshusharmaa/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/profile.php?id=100054187307420"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	
+</p>
