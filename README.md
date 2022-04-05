@@ -4,16 +4,20 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  </p>
 
-<h1>About Me! </h1>
+<h1>About Me!👩 </h1>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="250" height="250" /></p>
 
+---
+**NOTE**
 - 🏫: I'm a pre-final year, Computer Science Student.
 - 🔭: I’m currently working as a Devops Intern.
 - 🌱: I am located in Shimla, Himachal Pradesh , India.
+
+---
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
- <h1 align="center">Get in Touch! 📬</h1>
+ <h1>Get in Touch! 📬</h1>
  <p align="center">
 	<a href="mailto:divyanshus10112k@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/divyanshuss"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
