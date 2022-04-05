@@ -6,7 +6,7 @@
 
 <h1>About Me! </h1>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="100" height="100" /></p>
 
 - 🏫: I'm a pre-final year, Computer Science Student.
 - 🔭: I’m currently working as a Devops Intern.
