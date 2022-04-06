@@ -4,7 +4,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  </p>
 
-<h2>About Me !! <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">   </h2>
+<h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"> About Me!!  </h2>
 
 
 
