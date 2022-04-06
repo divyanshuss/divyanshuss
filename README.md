@@ -19,7 +19,7 @@
 ```
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
- <h1>Get in Touch! 📬</h1>
+ <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"> Get in Touch! 📬</h2>
  <p align="center">
 	<a href="mailto:divyanshus10112k@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/divyanshuss"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
