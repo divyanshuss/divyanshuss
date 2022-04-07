@@ -34,7 +34,7 @@
 <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"> Techinal Skills!!  </h2>
 
 ### Programming languages
-![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C](https://img.shields.io/badge/-C-000?&logo=C){: height="40" width="40" padding-right:10px}
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
