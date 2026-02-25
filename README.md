@@ -12,9 +12,9 @@
 
 ```
 
-- 🏫: I'm a pre-final year, Computer Science Student.
-- 🔭: I’m currently working as a Devops Intern.
-- 🌱: I am located in Shimla, Himachal Pradesh , India.
+- 🏫: I'm a Computer Science Graduate.
+- 🔭: I’m currently working as a Devops Engineer.
+- 🌱: I am located in Gurugram, Haryana , India.
 - 🤔 I’m lalso working as a contributing writter.
 
 ```
